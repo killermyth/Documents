@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T03:02:41.179Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="hsXiKRPEIHbpwT3xIAUL" version="14.7.10" type="github"><diagram id="2kQwltJa02KkiI_sXOaQ" name="Page-1">1Vhdb5swFP01fmwFNibwmK+tD5s0qZPWPpLggDWCkXGaZL9+FzDfNEmzRHR5iX0wF/uccy82iMy3h6/SS8LvwmcRwoZ/QGSBMMaGbcNfhhwLxDRtUiCB5L7GauCZ/2EaNDS64z5LWwOVEJHiSRtcizhma9XCPCnFvj1sI6L2UxMvYD3gee1FffQX91VYoA6e1PgT40GoqvW5xZWtVw7WK0lDzxf7BkSWiMylEKpobQ9zFmXslbwU931552o1MclidckNdGV8e32aJNGCB+Jlm/Kn5eRBR3nzop1eMMJ2BPFmIVyyg6yFlhaaTZEzR0sbOS5ySmRqZYjrIJfkjTlyFmhJkQOXzBxZopmtG45VRoYpNoIX3KhjSbhih/zxahsBYEIzVVL8ZnMRCQlILGIYOdvwKOpAaeKteRwAQOveT5EA8ADckNk+5Io9A549ag+GBUy8MbmJcl1C7vssBkyKXeyzjDajmiEMg5m9S71ZCQqpwMSWKXmEIWUeuNoDOguI7u5rR1WGDxtuohrztImDKnKtMzS01B+RHQ/o3hEiABqSdxev881blcONj5LitDkxzSFSzD4pFXhzVtzzpAxZqGFVL02KIrThh8xAl5nnhER99sajpxSoyc9FpWGCZgvkmnlpoGg2VCx0aVjJsi6oEFK7y36dmOY76dzQ4vbU6zCEtoxr2T3fmnggme27JfNAEb+uZPdU8Herlche36v/QwsTjy4GGRCDIhcotvMGQY45RP3d6T1djYnVLseYjM6kNcCkg6ZLNM0pBfaA1c/HJP18TNIek7CadHSmup4z6ehM2T2mNoz5KZOw0NH56jrrE/A16edolyUW+9PsIAa9deSlKV+3iWEHrl4a7dds3/04obq7OOh9eN45tjblzO8d3jpcwkzETq7Z2W3NyY0WPbE3lyzyFH9rz2OIaP2EH4LDDCtNLdw5Gjh2O0Qxf31X83jXCdQr4FYnkPJkwFQvUK57tex/sIIzkhVAcHl8aXaK22jZrW/Le3ezEDYKis++08byGnbNttfotV5z7VYgy+jM5d5eu+Ckds5rt5SfjqlqN/HJ5EpVq88SZQXpBrqzqnjgfHltBTHGepnYo1qBkkfS+LUPRxhfa4zuq+VmxoBu/QG0GF5/RybLvw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-17T03:23:23.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="bEWhRS-YWrpcJLXmp91B" version="14.7.10" type="github">
+  <diagram id="2kQwltJa02KkiI_sXOaQ" name="Page-1">
+    <mxGraphModel dx="2066" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5b0LYH7plDigoXmsiHE7-1" value="&lt;h1&gt;二手交易服务架构&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="30" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-12" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="80" y="110" width="211" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="5b0LYH7plDigoXmsiHE7-12" vertex="1">
+          <mxGeometry width="211" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-10" value="二手交易网关服务&lt;br&gt;thor" style="rounded=1;whiteSpace=wrap;html=1;" parent="5b0LYH7plDigoXmsiHE7-12" vertex="1">
+          <mxGeometry x="35" y="46" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-11" value="二手交易服务&lt;br&gt;dubbo db" style="rounded=1;whiteSpace=wrap;html=1;" parent="5b0LYH7plDigoXmsiHE7-12" vertex="1">
+          <mxGeometry x="35" y="126" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cda72I7SJkBjRO16MyrX-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5b0LYH7plDigoXmsiHE7-12" source="5b0LYH7plDigoXmsiHE7-10" target="5b0LYH7plDigoXmsiHE7-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="101" as="sourcePoint" />
+            <mxPoint x="270" y="146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-13" value="商品服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-14" value="订单服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-15" value="ares" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="156" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-16" value="feedserver" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="156" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-17" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="5b0LYH7plDigoXmsiHE7-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="386" as="sourcePoint" />
+            <mxPoint x="340" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-18" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5b0LYH7plDigoXmsiHE7-10" target="5b0LYH7plDigoXmsiHE7-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="291" y="356" as="sourcePoint" />
+            <mxPoint x="396" y="401" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-19" value="" style="endArrow=classic;html=1;" parent="1" source="5b0LYH7plDigoXmsiHE7-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="376" as="sourcePoint" />
+            <mxPoint x="230" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5b0LYH7plDigoXmsiHE7-20" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="5b0LYH7plDigoXmsiHE7-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353.3333333333335" y="226" as="sourcePoint" />
+            <mxPoint x="240" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

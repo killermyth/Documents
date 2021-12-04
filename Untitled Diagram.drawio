@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-04T16:41:28.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="AF-0k2AlbYQ0nLS1e-ti" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-04T16:51:30.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="7bbOgNmhrbImFGN-bG9t" version="15.9.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1455" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -55,29 +55,11 @@
         <mxCell id="2035" value="" style="shape=mxgraph.arrows.two_way_arrow_horizontal;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=none;dashed=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
           <mxGeometry x="900" y="131" width="67" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="2037" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.tablet;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="66" y="401" width="50" height="37.5" as="geometry" />
+        <mxCell id="2039" value="二手运营" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.laptop;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
+          <mxGeometry x="96" y="464" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2038" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.mobile;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="146" y="395" width="35" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2039" value="Devices" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.laptop;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="96" y="451" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2040" value="二手买家" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.mobile_services;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
+        <mxCell id="2040" value="二手卖家" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.mobile_services;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="107" y="250" width="32.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2041" value="Social" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.user;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="92" y="680" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2042" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.github_code;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="133" y="560" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2043" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.dropbox_code_source;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="73" y="563" width="50" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="2044" value="Repositories" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="60" y="620" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2045" value="Azure Website" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.azure_website;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="278" y="258" width="50" height="50" as="geometry" />
@@ -234,6 +216,12 @@
             <mxPoint x="174" y="688" as="sourcePoint" />
             <mxPoint x="254" y="688" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-q9GlR1EKXmEOfsyxATJ-2085" value="二手买家" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.mobile_services;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
+          <mxGeometry x="106.25" y="345" width="32.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-q9GlR1EKXmEOfsyxATJ-2087" value="娃博用户" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.mobile_services;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
+          <mxGeometry x="106.25" y="551" width="32.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T09:40:09.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="Pz6KtLrp0B266BnhslNj" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-05T09:41:30.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="mzj17D_L151R7N-t-jDY" version="15.9.1" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="1351" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="57fe6abec08f04cb-6" value="2021" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="910" y="180" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-7" value="履历" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-7" value="成长履历" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
           <mxGeometry x="30" y="110" width="1050" height="60" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-8" value="&lt;span style=&quot;font-size: 20px&quot;&gt;全球购Android Owner&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;android图片sdk&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;android升级sdk&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">

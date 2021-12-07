@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T00:45:10.473Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="1-Y5fjFbasCeXDea2MNS" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T00:55:57.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="-tZ7O5RXBNl5KihfTbb_" version="15.9.1" type="github">
   <diagram name="Page-1" id="1622d65d-c77d-c4b6-e0e7-3c11208c8684">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -50,10 +50,7 @@
           <mxGeometry x="300" y="930" width="1210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=30;rounded=0;strokeColor=none;strokeWidth=1;fillColor=#EA0001;fontFamily=Tahoma;fontSize=10;fontColor=#FFFFFF;gradientColor=#AD0002;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="300" y="1180" width="1210" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="869962fe87da545-18" value="Additional text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;fontFamily=Verdana;fontSize=70;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="170" width="130" height="1190" as="geometry" />
+          <mxGeometry x="300" y="1180" width="1210" height="190" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-19" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=150;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="200" height="180" as="geometry" />
@@ -94,11 +91,11 @@
         <mxCell id="869962fe87da545-31" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;超级群&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;与北京im团队合作，从0到1建设完成，单群可容纳人数提升20倍（5000-》10万）&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;次日留存由50%提升到60%，提升了20%&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="580" y="700" width="670" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="869962fe87da545-32" value="&lt;h1&gt;社区内容体系建设&lt;/h1&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;内容标签系统搭建，54万标签，6000万关系数据，支撑数据分类展示&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;内容审核后台，支持作者、内容 人工、算法预测打标&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;投票服务、沉浸式短视频服务搭建丰富样式与玩法&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
+        <mxCell id="869962fe87da545-32" value="&lt;h1&gt;社区内容体系建设&lt;/h1&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;内容标签系统搭建，54万标签，6000万关系数据，支撑内容分类及推荐&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;内容审核后台，支持作者、内容 人工、算法预测打标&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;投票服务、沉浸式短视频服务搭建丰富样式与玩法&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="580" y="950" width="670" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="869962fe87da545-33" value="&lt;h1&gt;app功能建设&lt;/h1&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;店铺详情服务搭建，将原散落在各个服务的接口规整到一起，提升可维护性&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;投票系统搭建&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
-          <mxGeometry x="580" y="1200" width="670" height="140" as="geometry" />
+        <mxCell id="869962fe87da545-33" value="&lt;h1&gt;app功能建设&lt;/h1&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;店铺详情服务搭建，并推动app完成迁移，提升了服务可维护性以及性能&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;与商家平台合作，共建商详服务，将app、h5商详业务汇集在一个服务中，提升效率&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;集市页后端开发，&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
+          <mxGeometry x="580" y="1200" width="780" height="170" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-34" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="1354.9999999999995" y="210" width="92" height="100" as="geometry" />
